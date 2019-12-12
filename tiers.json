@@ -1,0 +1,11 @@
+{
+    "IRON": "DEMİR",
+    "BRONZE":"BRONZ",
+    "SILVER":"GÜMÜŞ",
+    "GOLD":"ALTIN",
+    "PLATINUM":"PLATİN",
+    "DIAMOND":"ELMAS",
+    "MASTER":"USTALIK",
+    "GRANDMASTER":"ÜSTATLIK",
+    "CHALLENGER":"ŞAMPİYONLUK"
+}
